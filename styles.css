@@ -106,3 +106,6 @@ nav {
   border: none;
   border-radius: 4px;
   }
+  .footer .social a {
+    margin: 0 10px;
+  }
