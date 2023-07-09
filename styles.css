@@ -117,6 +117,7 @@ nav {
   }
   .footer{
     background-color: #333;
+    margin: 50px 0;
   }
   .container-grid{
     display: flex;
@@ -124,7 +125,7 @@ nav {
     color: #fff;
   }
 .social .logo-social img{
-    margin: 10px 0px;
+    margin: 20px 0px;
     width: 70px;
     height: 70px;
     border-radius:50%;
