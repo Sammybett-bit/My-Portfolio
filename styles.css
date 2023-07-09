@@ -85,6 +85,11 @@ nav {
     padding: 5px;
     margin-left: -10px;
   }
+  .container3{
+    width: 40%;
+    margin-left: 30%;
+    background-color: rgb(49, 235, 248);
+  }
   label{
     display: block;
   margin-bottom: 5px;
@@ -105,7 +110,23 @@ nav {
   padding: 10px 15px;
   border: none;
   border-radius: 4px;
+  margin: 5px 300px;
   }
   .footer .social a {
     margin: 0 10px;
   }
+  .footer{
+    background-color: #333;
+  }
+  .container-grid{
+    display: flex;
+    justify-content: space-evenly;
+    color: #fff;
+  }
+.social .logo-social img{
+    margin: 10px 0px;
+    width: 70px;
+    height: 70px;
+    border-radius:50%;
+    padding: 0 10px;
+}
