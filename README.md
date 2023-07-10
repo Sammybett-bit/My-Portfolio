@@ -12,11 +12,11 @@ Authors Info
 
 ## image link
 
-````
+```
 ![Screenshot from 2023-07-10 09-46-39](https://github.com/Sammybett-bit/My-Portfolio/assets/132260597/ce5e3d50-94d3-459e-91eb-0f958b2b4fdf)
 
 
-````
+```
 
 Installation Requirements
 Laptop
